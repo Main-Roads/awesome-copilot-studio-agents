@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **73 production-ready agents across 13 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
+> **78 production-ready agents across 13 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
 
 ---
 
@@ -225,7 +225,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Library
 
-The library contains 73 agents across 13 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
+The library contains 78 agents across 13 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
@@ -272,7 +272,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)** — complete index of all 73 agents with links
+- **[Agent Library](AGENTS.md)** — complete index of all 78 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing
