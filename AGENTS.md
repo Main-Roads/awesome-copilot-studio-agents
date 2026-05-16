@@ -1,6 +1,6 @@
-# Agent Library
+# Agent Library - Full Content
 
-> **73 agents across 13 domains.**
+> **78 agents across 13 domains.**
 > All agents are instruction-only and deploy in minutes via Copilot Studio.
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 
@@ -16,6 +16,7 @@
 | 04 | [Professional Translator EN↔FR](agents/writing-communication/professional-translator-en-fr.md) | Accurate English–French translation |
 | 40 | [Executive Briefing Builder](agents/writing-communication/executive-briefing-builder.md) | Compress long reports or email threads into a one-page C-suite brief |
 | 41 | [Tone Calibrator](agents/writing-communication/tone-calibrator.md) | Adjust the register of any text to match a specified audience |
+| 74 | [Brand Voice Enforcer](agents/writing-communication/brand-voice-enforcer.md) | Check content against a defined brand voice and style guide — flags deviations by type, provides corrected version |
 
 ---
 
@@ -83,6 +84,7 @@
 | 58 | [Security Risk Communicator](agents/it-ops/security-risk-communicator.md) | Translate technical security findings into plain-language risk summaries |
 | 72 | [Change-Incident Correlator](agents/it-ops/change-incident-correlator.md) | Identify incidents likely caused by recent changes using temporal and semantic matching |
 | 73 | [Problem Pattern Detector](agents/it-ops/problem-pattern-detector.md) | Find recurring incident patterns for Problem Management — CI-agnostic, with request filtering |
+| 75 | [IT Self-Service Agent](agents/it-ops/it-self-service-agent.md) | First-line IT support for employees — resolves common issues, answers policy questions, generates pre-filled helpdesk escalations |
 
 ---
 
@@ -92,6 +94,7 @@
 |---|-------|-------------|
 | 20 | [Escalation Handler](agents/customer-success/escalation-handler.md) | Manage customer escalations with structured comms |
 | 21 | [Customer Response Writer](agents/customer-success/customer-response-writer.md) | Write professional responses to customer queries and complaints |
+| 76 | [Customer Onboarding Agent](agents/customer-success/customer-onboarding-agent.md) | Generate phased onboarding plans, welcome comms, milestone check-ins, and handover summaries for new clients |
 
 ---
 
@@ -156,6 +159,8 @@
 | 69 | [Contract Language Simplifier](agents/commercial-legal/contract-language-simplifier.md) | Rewrite dense contractual clauses into plain language |
 | 70 | [Policy Summariser](agents/commercial-legal/policy-summariser.md) | Convert long policy documents into what you must do, what is prohibited |
 | 71 | [Incident Communication Drafter](agents/commercial-legal/incident-communication-drafter.md) | Draft staff, client, and press communications for incidents and crises |
+| 77 | [Document Validation Agent](agents/commercial-legal/document-validation-agent.md) | Check any document against a policy, standard, or regulatory requirement — structured findings by severity with recommended actions |
+| 78 | [Procurement / Vendor Assessment Agent](agents/commercial-legal/procurement-vendor-assessment-agent.md) | Evaluate supplier responses and RFQ submissions — scorecard, comparison matrix, and recommendation brief |
 
 ---
 
@@ -184,21 +189,21 @@
 
 | Domain | Agents |
 |--------|--------|
-| Writing & Communication | 6 |
+| Writing & Communication | 7 |
 | Project Management | 11 |
 | HR & People | 8 |
 | Productivity | 1 |
 | Finance & Reporting | 5 |
-| IT & Digital | 7 |
-| Customer Success | 2 |
+| IT & Digital | 8 |
+| Customer Success | 3 |
 | Sales & Business Development | 8 |
 | Strategy & Executive | 4 |
 | Learning & Development | 4 |
 | ESG & Sustainability | 4 |
-| Commercial & Legal | 9 |
+| Commercial & Legal | 11 |
 | Advanced / MCP | 4 |
-| **Total** | **73** |
+| **Total** | **78** |
 
 ---
 
-*Last updated: 2026-03-26*
+*Last updated: 2026-05-16*
