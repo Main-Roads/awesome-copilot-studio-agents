@@ -29,7 +29,9 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 **[Start the free course →](https://trainings.kesslernity.com)** — no signup wall, no credit card.
 
-**New:** [M365 Copilot Field Guide](https://github.com/kesslernity/m365-copilot-field-guide) — 12 interactive reference guides (decision map, failure triage, one guide per feature)
+**Deploying Copilot for your org?** The **[M365 Copilot Practitioner Kit](https://kesslermathieu.gumroad.com/l/kpfpi)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
+
+**[Get the kit →](https://kesslermathieu.gumroad.com/l/kpfpi)**
 
 ---
 
@@ -230,6 +232,10 @@ The library contains 78 agents across 13 domains. See [AGENTS.md](AGENTS.md) for
 ---
 
 ## Related Resources
+
+**Want the full M365 Copilot deployment package?**
+
+[**M365 Copilot Practitioner Kit →**](https://kesslermathieu.gumroad.com/l/kpfpi) — 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
