@@ -38,6 +38,16 @@ The **[M365 Copilot Practitioner Kit](https://kesslermathieu.gumroad.com/l/kpfpi
 
 ---
 
+## The Craft Behind These Agents
+
+Every one of the 73 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern — not more instructions.
+
+**[Agent Instruction Block Design Guide](https://kesslermathieu.gumroad.com/l/eyeauo)** ($19) — 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
+
+> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://kesslermathieu.gumroad.com/l/nusvz)** ($29) — the pre-flight check before you build. Or **[get both for $39](https://kesslermathieu.gumroad.com/l/oocxx)**.
+
+---
+
 ## What This Is
 
 A curated library of instruction sets for [Microsoft 365 Copilot declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent). Each agent is a paste-ready instruction block, ready to deploy without configuration files, coding, or Azure resources.
