@@ -244,6 +244,14 @@ The library contains 78 agents across 13 domains. See [AGENTS.md](AGENTS.md) for
 
 ---
 
+### 📕 Governing the estate, not just building it
+
+If you are running AI in an enterprise and the question "who owns the model's mistake?" does not yet have a name against it, **Critical Density** is the responsibility-and-audit playbook: how dependency builds invisibly, why attribution has to be installed before an incident, and a five-artifact toolkit (the Density Register, the Attribution-Readiness Checklist, the RACI-for-AI, the Audit Question Bank, and the Governance-Cadence Control Spec). Audit-grade, EU AI Act-aware, sector-neutral.
+
+Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence-plate-test) (a 12-question attribution self-test), or get the full book + toolkit: [Critical Density, $59](https://store.kesslernity.com/l/critical-density).
+
+---
+
 ## Related Resources
 
 **Want the full M365 Copilot deployment package?**
