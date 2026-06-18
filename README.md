@@ -1,13 +1,13 @@
 # Awesome Copilot Studio Agents
 
-> **78 production-ready declarative agents for Microsoft 365 Copilot.**
+> **89 production-ready declarative agents for Microsoft 365 Copilot.**
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 > No coding required. Deploy in minutes.
 
 [![GitHub stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **78 production-ready agents across 13 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
+> **89 production-ready agents across 17 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
 
 ---
 
@@ -29,22 +29,7 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 **[Start the free course →](https://trainings.kesslernity.com)** — no signup wall, no credit card.
 
-
-## Deploying Copilot for your org?
-
-The **[M365 Copilot Practitioner Kit](https://kesslermathieu.gumroad.com/l/kpfpi)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
-
-**[Get the kit →](https://kesslermathieu.gumroad.com/l/kpfpi)**
-
----
-
-## The Craft Behind These Agents
-
-Every one of the 73 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern — not more instructions.
-
-**[Agent Instruction Block Design Guide](https://kesslermathieu.gumroad.com/l/eyeauo)** ($19) — 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
-
-> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://kesslermathieu.gumroad.com/l/nusvz)** ($29) — the pre-flight check before you build. Or **[get both for $39](https://kesslermathieu.gumroad.com/l/oocxx)**.
+**New:** [M365 Copilot Field Guide](https://github.com/kesslernity/m365-copilot-field-guide) — 12 interactive reference guides (decision map, failure triage, one guide per feature)
 
 ---
 
@@ -205,6 +190,42 @@ Every agent in this library:
 | 70 | [**Policy Summariser**](agents/commercial-legal/policy-summariser.md) | Convert long policy documents into what you must do, what is prohibited | HR / Compliance / All Staff | None | `@Policy Summariser ...` |
 | 71 | [**Incident Communication Drafter**](agents/commercial-legal/incident-communication-drafter.md) | Draft staff, client, and press communications for incidents and crises | Communications / Legal / Senior Leadership | None | `@Incident Comms Drafter ...` |
 
+### Data & Analytics
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 74 | [**Data Storyteller**](agents/data-analytics/data-storyteller.md) | Turn validated results into a stakeholder data narrative (no recompute, no overclaim) | Data / BI / Analytics | None | `@Data Storyteller ...` |
+| 75 | [**KPI Definition Writer**](agents/data-analytics/kpi-definition-writer.md) | Turn a metric into a precise definition for governance (no value computed) | Analytics / BI / FP&A | None | `@KPI Definition Writer ...` |
+| 76 | [**Report Requirements Builder**](agents/data-analytics/report-requirements-builder.md) | Turn a stakeholder ask into a BI requirements spec with gaps flagged | BI / Business Analysts | None | `@Report Requirements ...` |
+| 77 | [**Data Dictionary Builder**](agents/data-analytics/data-dictionary-builder.md) | Turn a column list/schema into a data dictionary draft, [TBC] where unknown | Data / Analytics Engineers | None | `@Data Dictionary Builder ...` |
+
+### Data Privacy
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 78 | [**DPIA Scaffold Builder**](agents/data-privacy/dpia-scaffold-builder.md) | Turn a processing description into a DPIA scaffold (ratings left to the DPO) | DPO / Privacy Counsel | None | `@DPIA Scaffold Builder ...` |
+| 79 | [**ROPA Entry Drafter**](agents/data-privacy/ropa-entry-drafter.md) | Draft a Record of Processing Activities entry (lawful basis left to confirm) | Privacy Managers / DPO | None | `@ROPA Entry Drafter ...` |
+| 80 | [**DSAR Intake Assistant**](agents/data-privacy/dsar-intake-assistant.md) | Structure a data subject request into intake, scope, and statutory clock | Privacy / DPO | None | `@DSAR Intake Assistant ...` |
+| 81 | [**Breach Triage Organizer**](agents/data-privacy/breach-triage-organizer.md) | Organize suspected-breach facts for the DPO's assessment (no notifiability call) | DPO / Privacy / Incident Leads | None | `@Breach Triage Organizer ...` |
+
+### Trade Compliance
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 82 | [**Export Classification Prep**](agents/trade-compliance/export-classification-prep.md) | Build a classification worksheet from a product/tech description (no ECCN/USML assigned) | Export Control / Trade Compliance | None | `@Export Classification Prep ...` |
+| 83 | [**Restricted Party Screening Prep**](agents/trade-compliance/restricted-party-screening-prep.md) | Extract all parties to screen + a checklist (screening runs in the tool) | Trade Compliance / Trade Ops | None | `@Restricted Party Screening ...` |
+| 84 | [**Export Red Flag Checker**](agents/trade-compliance/export-red-flag-checker.md) | Apply standard export red-flag indicators to a transaction (flags, not a finding) | Trade Compliance / Export Liaisons | None | `@Export Red Flag Checker ...` |
+| 85 | [**End-Use Statement Drafter**](agents/trade-compliance/end-use-statement-drafter.md) | Draft an end-use/end-user statement scaffold + due-diligence questions | Trade Compliance / Sales | None | `@End-Use Statement ...` |
+
+### Procurement & Vendor
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 86 | [**RFP Requirements Builder**](agents/procurement/rfp-requirements-builder.md) | Turn a need into structured RFP/RFQ requirements (criteria only, no scores) | Procurement / Category / Sourcing | None | `@RFP Requirements Builder ...` |
+| 87 | [**Supplier Response Comparator**](agents/procurement/supplier-response-comparator.md) | Lay bid responses side by side vs requirements with gaps and questions | Procurement / Sourcing / Panels | None | `@Supplier Response Comparator ...` |
+| 88 | [**Vendor Scorecard Builder**](agents/procurement/vendor-scorecard-builder.md) | Structure performance evidence into a scorecard (reviewer sets the ratings) | Procurement / Vendor Managers | None | `@Vendor Scorecard Builder ...` |
+| 89 | [**Negotiation Prep Brief**](agents/procurement/negotiation-prep-brief.md) | Turn history and context into a negotiation prep brief (no price targets) | Procurement / Category / Buyers | None | `@Negotiation Prep Brief ...` |
+
 ### Advanced / MCP-Enabled
 
 > These agents require platform connections via Microsoft Graph API. Deploy after all instruction-only agents are stable.
@@ -240,27 +261,19 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Library
 
-The library contains 78 agents across 13 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
-
----
-
-### 📕 Governing the estate, not just building it
-
-If you are running AI in an enterprise and the question "who owns the model's mistake?" does not yet have a name against it, **Critical Density** is the responsibility-and-audit playbook: how dependency builds invisibly, why attribution has to be installed before an incident, and a five-artifact toolkit (the Density Register, the Attribution-Readiness Checklist, the RACI-for-AI, the Audit Question Bank, and the Governance-Cadence Control Spec). Audit-grade, EU AI Act-aware, sector-neutral.
-
-Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence-plate-test) (a 12-question attribution self-test), or get the full book + toolkit: [Critical Density, $59](https://store.kesslernity.com/l/critical-density).
+The library contains 89 agents across 17 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
 ## Related Resources
 
-**Want the full M365 Copilot deployment package?**
+**On Copilot Chat, not the premium licence?**
 
-[**M365 Copilot Practitioner Kit →**](https://kesslermathieu.gumroad.com/l/kpfpi) — 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
+[**Awesome Copilot Chat Agents →**](https://github.com/kesslernity/awesome-copilot-chat-agents) — 82 ready-to-deploy agents built for **Copilot Chat — no premium M365 Copilot licence required**. Works on any commercial M365 plan, no SharePoint grounding needed. The companion to this repo for the majority of your org that isn't on the paid Copilot seat.
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
-[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 400+ production-tested M365 Copilot prompts across 18 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
+[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
 
 **Running automated recurring briefings without building an agent?**
 
@@ -299,7 +312,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)** — complete index of all 78 agents with links
+- **[Agent Library](AGENTS.md)** — complete index of all 89 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing
