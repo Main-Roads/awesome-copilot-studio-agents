@@ -265,27 +265,22 @@ The library contains 89 agents across 17 domains. See [AGENTS.md](AGENTS.md) for
 
 ---
 
-## Related Resources
+## More from Kesslernity
 
-**On Copilot Chat, not the premium licence?**
+This repo is free and stays free. If it's useful, here's the rest of the toolkit.
 
-[**Awesome Copilot Chat Agents →**](https://github.com/kesslernity/awesome-copilot-chat-agents) — 82 ready-to-deploy agents built for **Copilot Chat — no premium M365 Copilot licence required**. Works on any commercial M365 plan, no SharePoint grounding needed. The companion to this repo for the majority of your org that isn't on the paid Copilot seat.
+**Free**
+- 📄 **Copilot on One Page** — the one-page cheat sheet for getting real answers out of Copilot. [Free download](https://store.kesslernity.com/l/copilot-on-one-page)
 
-**Using Microsoft 365 Copilot prompts rather than agents?**
+**The rest of the free Copilot repos**
+- [awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 400+ tested Copilot prompts
+- [awesome-copilot-chat-agents](https://github.com/kesslernity/awesome-copilot-chat-agents) — Copilot Chat agents, no premium licence needed
+- [awesome-copilot-cowork-skills](https://github.com/kesslernity/awesome-copilot-cowork-skills) — Cowork skills
 
-[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
+**Deploying Copilot for a team?**
+- 🛒 Deployment kits, governance playbooks, and the honest "when not to use it" guides, built so you can deploy Copilot without a consultant: **[kesslernity.com/store](https://kesslernity.com/store)**
 
-**Running automated recurring briefings without building an agent?**
-
-[**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts) — 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
-
-**Need enterprise AI deployment support?**
-
-[**Kesslernity →**](https://kesslernity.com) — Enterprise AI deployment platform covering governed agents, adoption strategy, and team training programmes.
-
-**More free AI prompts and tools?**
-
-[**NerdyChefs.ai →**](https://nerdychefs.ai) — 1,600+ free AI prompts across 73 packs, no signup required.
+Independent and vendor-neutral. Not affiliated with Microsoft.
 
 ---
 
