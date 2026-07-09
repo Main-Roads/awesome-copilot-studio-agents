@@ -9,13 +9,14 @@
 
 > **89 production-ready agents across 17 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
 
+> **Skip the paste step:** the free **[Copilot Agent Pack sample](https://store.kesslernity.com/l/copilot-agent-pack-sample?utm_source=github&utm_medium=readme&utm_campaign=agents_repo)** is one complete governed agent (Meeting-to-Action) packaged as an import-ready .zip, with a one-page guide covering the one tenant permission it needs.
 ---
 
 ## AI at Work — Newsletter
 
 Tested prompts for Microsoft 365 Copilot. One role at a time. Plus verified GenAI news and one insight you won't find in a changelog. Biweekly, 4-minute read.
 
-**[Subscribe free →](https://newsletter.kesslernity.com)** — no spam, no fluff, unsubscribe anytime.
+**[Subscribe free →](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=agents_repo)**. No spam, no fluff, unsubscribe anytime.
 
 ## The Prompt Pantry — Weekly from NerdyChefs.ai
 
