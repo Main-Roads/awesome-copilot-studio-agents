@@ -67,7 +67,8 @@ Synonym cycling: pick one term per concept and use it consistently.
 Formulaic challenge sections: "Despite its challenges, [subject] continues to thrive..." — rewrite with specific facts.
 
 ### Category 6: Style artefacts
-Em dash overuse: target zero em dashes in formal documents; maximum one per paragraph in informal content.
+Em dash overuse: target zero em dashes in documents; 
+En dash overuse: target zero en dashes in documents; 
 Mechanical boldface: remove bold from any phrase that does not require genuine emphasis.
 Inline-header bullet lists (- **Term:** Explanation): rewrite as prose or plain bullets without bolded inline headers.
 Emojis in formal documents: remove entirely.
